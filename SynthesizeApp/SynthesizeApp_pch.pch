@@ -1,0 +1,25 @@
+//
+//  SynthesizeApp_pch.pch
+//  SynthesizeApp
+//
+//  Created by 王盛魁 on 2017/3/18.
+//  Copyright © 2017年 WangShengKui. All rights reserved.
+//
+
+#ifndef SynthesizeApp_pch_pch
+#define SynthesizeApp_pch_pch
+
+#import "AppDelegate.h"
+#import "AppSetting.h"
+#import "AppMacro.h"
+#import "WSKBasicMarco.h"
+#import "UITextField+WSKCategory.h"
+#import "NSString+WSKStringCategory.h"
+#import "WSKLoadingView.h"
+#import "WSKAppUpdateManager.h"
+#import "AFNetworking.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* SynthesizeApp_pch_pch */
